@@ -27,15 +27,15 @@ class PublishCommand extends Command
     public function handle()
     {
         $this->call('vendor:publish', [
-            '--tag' =>laralertbar-config',
+            '--tag' => 'laralertbar-config',
             '--force' => $this->option('force'),
         ]);
         $this->call('vendor:publish', [
-            '--tag' =>laralertbar-view',
+            '--tag' => 'laralertbar-view',
             '--force' => $this->option('force'),
         ]);
         $this->call('vendor:publish', [
-            '--tag' =>laralertbar-asset',
+            '--tag' => 'laralertbar-asset',
             '--force' => true,
         ]);
     }
