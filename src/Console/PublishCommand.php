@@ -11,7 +11,7 @@ class PublishCommand extends Command
      *
      * @var string
      */
-    protected $signature =laralertbar:publish {--force : Overwrite any existing files}';
+    protected $signature =laralertbar:publish {--force : Overwrite any existing files};
     /**
      * The console command description.
      *
