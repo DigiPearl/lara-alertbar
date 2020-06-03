@@ -10,12 +10,10 @@ A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAV
     <img src="https://raw.github.com/sweetalert2/sweetalert2/master/assets/sweetalert2.gif" width="562" height="388">
 </p>
 
-<p align="center">
 [![Latest Stable Version](https://poser.pugx.org/digipearl/lara-alertbar/v)](//packagist.org/packages/digipearl/lara-alertbar)
 [![Total Downloads](https://poser.pugx.org/digipearl/lara-alertbar/downloads)](//packagist.org/packages/digipearl/lara-alertbar)
 [![Latest Unstable Version](https://poser.pugx.org/digipearl/lara-alertbar/v/unstable)](//packagist.org/packages/digipearl/lara-alertbar)
 [![License](https://poser.pugx.org/digipearl/lara-alertbar/license)](//packagist.org/packages/digipearl/lara-alertbar)
-</p>
 
 # Install
 
