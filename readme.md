@@ -11,10 +11,10 @@ A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAV
 </p>
 
 <p align="center">
-<a href="https://packagist.org/packages/digipearl/lara-alertbar" target="_blank"><img src="https://poser.pugx.org/digipearl/lara-alertbar/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/digipearl/lara-alertbar" target="_blank"><img src="https://poser.pugx.org/digipearl/lara-alertbar/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://www.patreon.com/digipearl" target="_blank"><img alt="Support me on Patreon" src="http://ionicabizau.github.io/badges/patreon.svg"></a>
-<a href="https://packagist.org/packages/digipearl/lara-alertbar" target="_blank"><img src="https://poser.pugx.org/digipearl/lara-alertbar/license.svg" alt="License"></a>
+[![Latest Stable Version](https://poser.pugx.org/digipearl/lara-alertbar/v)](//packagist.org/packages/digipearl/lara-alertbar)
+[![Total Downloads](https://poser.pugx.org/digipearl/lara-alertbar/downloads)](//packagist.org/packages/digipearl/lara-alertbar)
+[![Latest Unstable Version](https://poser.pugx.org/digipearl/lara-alertbar/v/unstable)](//packagist.org/packages/digipearl/lara-alertbar)
+[![License](https://poser.pugx.org/digipearl/lara-alertbar/license)](//packagist.org/packages/digipearl/lara-alertbar)
 </p>
 
 # Install
