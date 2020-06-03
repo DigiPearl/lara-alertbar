@@ -1,0 +1,60 @@
+{
+    "name": "digipearl/lara-alertbar",
+    "type": "library",
+    "description": "A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES FOR LARAVEL BY RASHID ALI",
+    "keywords": [
+        "laravel",
+        "laravel-package",
+        "sweet-alert2",
+        "sweet-alert",
+        "notifier",
+        "toast",
+		"toastr",
+		"lara-alertbar",
+        "alert",
+        "noty"
+    ],
+    "homepage": "https://github.com/DigiPearl/lara-alertbar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Digi Pearl",
+            "email": "digipearlinc@gmail.com",
+            "homepage": "https://digipearl.in",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "digipearlinc@gmail.com",
+        "issues": "https://github.com/DigiPearl/lara-alertbar/issues",
+        "source": "https://github.com/DigiPearl/lara-alertbar"
+    },
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "^5.4|^6.0|^7.0"
+    },
+    "require-dev": {
+        "symfony/thanks": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DigiPearl\\LaraAlertbar\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DigiPearl\\LaraAlertbar\\LaraAlertbarServiceProvider"
+            ],
+            "aliases": {
+                "Alert": "DigiPearl\\LaraAlertbar\\Facades\\Alert"
+            }
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
